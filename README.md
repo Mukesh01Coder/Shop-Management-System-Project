@@ -1,5 +1,5 @@
 # Shop-Management-System-Project
--Shop management systemp is a software in which Shop Owner can store and sell the product from the shop.
+-Shop management system is a software in which Shop Owner can store and sell the product from the shop.
  -In shop management system, the user can "Enter Enteries" of their items.
   Add employees details and store all records.
   Search and modify employees details and all record detail.
